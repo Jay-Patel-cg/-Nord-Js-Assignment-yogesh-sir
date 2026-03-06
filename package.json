@@ -1,0 +1,25 @@
+{
+  "name": "-nord-js-assignment-yogesh-sir",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jay-Patel-cg/-Nord-Js-Assignment-yogesh-sir.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jay-Patel-cg/-Nord-Js-Assignment-yogesh-sir/issues"
+  },
+  "homepage": "https://github.com/Jay-Patel-cg/-Nord-Js-Assignment-yogesh-sir#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "mongoose": "^9.2.4",
+    "nodemon": "^3.1.14"
+  }
+}
